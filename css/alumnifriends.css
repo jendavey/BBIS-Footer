@@ -2530,7 +2530,8 @@ th.EventProgressCell, th.EventProgressCellFuture, th.EventProgressCellPast {
 
   .quick_nav_list {
     display: flex;
-    flex-wrap: wrap; }
+    flex-wrap: wrap;
+justify-content: center; }
 
   .footer_nav_link {
     padding-bottom: 10px; }
