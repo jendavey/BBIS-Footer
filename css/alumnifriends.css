@@ -2256,12 +2256,13 @@ th.EventProgressCell, th.EventProgressCellFuture, th.EventProgressCellPast {
       margin: 0 0 2rem;
       padding: 0;
       display: flex;
+      gap: 75px;
       flex-direction: row;
-      justify-content: space-between; }
+      justify-content: center; }
       .footer_advan .footer_ribbon ul.quick_nav_logo li {
         list-style: none;
-        padding: 0 30px 0 0;
-        width: 50%; }
+        /* padding: 0 30px 0 0;
+        width: 50%; */ }
         .footer_advan .footer_ribbon ul.quick_nav_logo li img {
           width: 100%;
           max-width: 200px;
@@ -2639,6 +2640,7 @@ th.EventProgressCell, th.EventProgressCellFuture, th.EventProgressCellPast {
 
   .footer_ribbon_inner {
     display: flex;
+    justify-content: center;
     /* padding-right: 40px; */ }
 
   .footer_ribbon_group {
@@ -2678,7 +2680,8 @@ th.EventProgressCell, th.EventProgressCellFuture, th.EventProgressCellPast {
   .footer_nav_list,
   .quick_nav_list {
     display: flex;
-    flex-wrap: nowrap; }
+    flex-wrap: nowrap;
+    justify-content:center; }
 
   .quick_nav_item,
   .footer_nav_item {
