@@ -2639,7 +2639,7 @@ th.EventProgressCell, th.EventProgressCellFuture, th.EventProgressCellPast {
 
   .footer_ribbon_inner {
     display: flex;
-    padding-right: 40px; }
+    /* padding-right: 40px; */ }
 
   .footer_ribbon_group {
    /* width: calc(100%-325px); */
