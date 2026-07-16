@@ -2516,7 +2516,7 @@ th.EventProgressCell, th.EventProgressCellFuture, th.EventProgressCellPast {
 
  .footer_nav_item,
   .quick_nav_item {
-    width: 50%;
+   /* width: 50%; */
     padding-right: 20px; } 
 
   .footer_nav_list {
