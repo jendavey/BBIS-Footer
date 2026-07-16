@@ -2642,7 +2642,7 @@ th.EventProgressCell, th.EventProgressCellFuture, th.EventProgressCellPast {
     padding-right: 40px; }
 
   .footer_ribbon_group {
-    width: calc(100%-325px);
+   /* width: calc(100%-325px); */
     padding: 3rem 1rem 1.5rem !important; }
 
   .af_footer_sole {
