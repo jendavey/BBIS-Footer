@@ -2502,6 +2502,10 @@ th.EventProgressCell, th.EventProgressCellFuture, th.EventProgressCellPast {
         display: flex;
         flex-direction: column;
     }
+
+    .footer_advan .quick_nav_item {
+        padding-right: 20px;
+    }
 }
 @media screen and (min-width: 740px) {
   .fs-grid .fs-row, .fs_grid_row {
