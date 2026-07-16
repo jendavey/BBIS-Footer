@@ -2514,10 +2514,10 @@ th.EventProgressCell, th.EventProgressCellFuture, th.EventProgressCellPast {
   ul.quick_nav_logo {
     padding-right: 100px; }
 
- /* .footer_nav_item,
+ .footer_nav_item,
   .quick_nav_item {
     width: 50%;
-    padding-right: 20px; } */
+    padding-right: 20px; } 
 
   .footer_nav_list {
     display: flex;
